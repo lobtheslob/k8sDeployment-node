@@ -1,7 +1,7 @@
 {
     "databaseConfig": {
         "host": "mongo",
-        "database": "nodeMongoDB",
+        "database": "codeWithDan",
         "username": "webrole",
         "password": "password"
     },

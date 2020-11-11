@@ -37,9 +37,6 @@ The app uses Mongoose to create a simple database that stores Docker commands an
 
 7. Navigate to http://localhost:3000 in your browser.
 
-Interested in learning more about Docker? Visit https://www.pluralsight.com/courses/docker-web-development to view my Docker for Web Developers course.
-
-
 
 
 "# k8sDeployment-node" 
